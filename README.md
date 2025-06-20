@@ -55,7 +55,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 git clone https://github.com/sasaaarch/bot6
-cd hitori
+cd bot6
 npm install
 ```
 
